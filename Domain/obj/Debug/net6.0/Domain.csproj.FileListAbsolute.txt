@@ -9,3 +9,14 @@ C:\Users\victo\development\temp-project-for-learning-tests\Domain\obj\Debug\net6
 C:\Users\victo\development\temp-project-for-learning-tests\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\victo\development\temp-project-for-learning-tests\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\victo\development\temp-project-for-learning-tests\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\victo\development\basic-tests\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\victo\development\basic-tests\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\victo\development\basic-tests\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\victo\development\basic-tests\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\development\basic-tests\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\victo\development\basic-tests\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\victo\development\basic-tests\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\victo\development\basic-tests\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\victo\development\basic-tests\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\victo\development\basic-tests\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\victo\development\basic-tests\Domain\obj\Debug\net6.0\ref\Domain.dll

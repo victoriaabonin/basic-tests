@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eN9oUe9MJE5hRkGk/jcQH9+jgbIaEVsqTz/tbM0UclbM4BYp7UKErV7YsDLrLm59s5LgVoRXO7BDnfdXDsn05g==",
+  "dgSpecHash": "Mb6lcyX7yE9BMpMedNgwp16DPtyaeu1XNa5iHzStmlUj0U10NYtn/JkjgOrYpHw5lhOLAo3cHv165rQy8XJQKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\development\\temp-project-for-learning-tests\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\victo\\development\\basic-tests\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

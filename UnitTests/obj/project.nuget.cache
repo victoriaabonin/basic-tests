@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T7E/56EdLvNLnQ9UdYW9CdbqZlKJX18QOLMxJV/QxU6FqgTtsaLnO7VNECYTlwFrw0Pv7aPPW3oVU1pVOV4FHg==",
+  "dgSpecHash": "UMnVVDhFC1aBAhk/9cZC3V2CfeNmWU4Oadl1b9kiLfU6j3Cj4dRukp7WiXsDv7MRxyA70DxYdHpNk2u/xZnDiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\development\\temp-project-for-learning-tests\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\victo\\development\\basic-tests\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

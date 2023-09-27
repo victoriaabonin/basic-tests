@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\development\\temp-project-for-learning-tests\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\development\\basic-tests\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\victo\\development\\temp-project-for-learning-tests\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\victo\\development\\basic-tests\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\development\\temp-project-for-learning-tests\\Application\\obj\\",
+      "outputPath": "C:\\Users\\victo\\development\\basic-tests\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\victo\\development\\temp-project-for-learning-tests\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\victo\\development\\temp-project-for-learning-tests\\Domain\\Domain.csproj"
+            "C:\\Users\\victo\\development\\basic-tests\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\victo\\development\\basic-tests\\Domain\\Domain.csproj"
             }
           }
         }
